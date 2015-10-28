@@ -1,5 +1,5 @@
-int sizex = 5000;
-int sizey = 5000;
+int sizex = 500;
+int sizey = 500;
 void setup() {
   size(1920, 1080);
 
